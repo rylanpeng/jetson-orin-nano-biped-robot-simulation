@@ -1,6 +1,6 @@
 # Jetson Orin Nano Biped Robot Simulation
 
-Training a biped robot to walk using PPO and the Genesis physics simulator, running entirely on the Jetson Orin Nano.
+Biped locomotion training with PPO and Genesis, on the Jetson Orin Nano.
 
 ## Setup
 
