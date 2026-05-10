@@ -2,6 +2,8 @@
 
 Biped locomotion training with PPO and Genesis, on the Jetson Orin Nano.
 
+For the full walkthrough, see: [Biped Robot RL Simulation](https://rylanpeng.github.io/rylanpeng.dev/4-genesis-rl/)
+
 ## Setup
 
 ```bash
